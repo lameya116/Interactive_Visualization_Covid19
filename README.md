@@ -15,6 +15,7 @@ The home-screen plots the choropleth map which illustrates total infected cases.
 color densities are varied with number of cases(qualitative color map). When hovering over the map it will show
 the user country-wise information such as, total infected cases, total death cases, life expectancy
 and new cases. 
+
 ![Countrywise Covid-19 Case Visualization](images/chropleth.png)
 
 * **Line based technique (Line graph)** :
@@ -24,6 +25,7 @@ continent first from the ‘Continent’ drop down menu and then depending on th
 continent, countries belonging to that continent can be selected from a child dropdown menu named
 ‘Country’. The line graph will then illustrate the gradual increase of total infected case and total
 death case of that country starting from December 31,2019 to June 17,2020.
+
 ![Line based Visualization](images/linegraph.png)
 
 
